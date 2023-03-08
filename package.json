@@ -40,5 +40,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Otoscopia is a cross-platform app designed for school nurses with a smartphone-enabled-otoscope and electronic-medical-record features, providing easy and accurate ear exams and medical history tracking for students.",
+  "main": "index.js",
+  "repository": "https://github.com/laurencetroyv/otoscopia-web.git",
+  "author": "laurencetroyv <laurencetroyv@gmail.com>",
+  "license": "MIT"
 }
